@@ -1,7 +1,6 @@
 /* Importing a Google Font */
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&display=swap');
-
 /* Changing the main font and background colour */
 
 body {
@@ -43,4 +42,19 @@ footer a:hover {
 		0 0 .2em white,
 		0 0 .5em white;
 }
+.oswald{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+ 
    
