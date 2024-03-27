@@ -5,13 +5,13 @@
 
 body {
 	font-family: Raleway, sans-serif;
-	background-color: #fffcf8;
+	background-color: #EBEBEB;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #5480DE;
 }
 
 /* Changing the background color for the navigation bar */
@@ -25,6 +25,7 @@ header {
 
 footer a:hover {
 	opacity: .5;
+	color: #397E26
 }
 
 /* Corporate navbar */
@@ -55,6 +56,20 @@ footer a:hover {
   font-style: normal;
 }
 
-
+.green-colourbg {
+	background-color: #397E26
+}
+.darkgreen-colourbg{
+	background-color: #212E0F
+}
+.blue-colourbg{
+	background-color: #5480DE
+}
+.darkgreen-colour{
+	color: #212E0F
+}
+.beige-colour{
+	color: #EBEBEB
+}
  
    
