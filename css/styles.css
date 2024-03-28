@@ -6,6 +6,7 @@
 body {
 	font-family: Raleway, sans-serif;
 	background-color: #EBEBEB;
+	border-left: 8vw solid #212E0F;
 }
 
 /* Changing the background colour for the header */
@@ -55,7 +56,6 @@ footer a:hover {
   font-weight: 400;
   font-style: normal;
 }
-
 .green-colourbg {
 	background-color: #397E26
 }
@@ -71,5 +71,21 @@ footer a:hover {
 .beige-colour{
 	color: #EBEBEB
 }
- 
-   
+  .sidebar {
+    background-color: #212E0F;
+    width: 100px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
+  }
+
+  .content {
+    margin-left: 120px;
+    padding: 20px;
+  }
+
+  p {
+    color: #000;
+  } 
